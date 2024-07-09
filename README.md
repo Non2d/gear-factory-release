@@ -65,11 +65,11 @@
 ![image](https://github.com/Non2d/gear-factory-release/assets/102778345/ba503f43-e5ce-4421-b432-b695b8a59bc2)
 
 
+**是非プレイしてください！**
+
+
+---
 
 ## 参考書籍
 
 - **Unreal Engine 5で動かす C++ & Blueprint**
-
----
-
-是非プレイしてください！
